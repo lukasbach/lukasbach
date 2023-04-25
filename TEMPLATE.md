@@ -6,7 +6,7 @@ I am a software engineer focused on frontend development. I primarily work with 
 [![Medium Blog](https://flat.badgen.net/badge/Medium%20Blog/@lukasbach?icon=medium&color=yellow)](https://medium.com/@lukasbach)
 [![My Projects](https://flat.badgen.net/badge/All%20Projects/lukasbach.com%2Fprojects?icon=github&color=purple)](https://lukasbach.com/projects)
 
-## Stats
+I joined GitHub **{{ ACCOUNT_AGE }}** years ago. Since then, I
 
 - ![](./icons/star.svg) Received **{{ STARS }}** stars across **{{ REPOSITORIES }}** personal projects
 - ![](./icons/commit.svg) Pushed **{{ COMMITS }}** commits
