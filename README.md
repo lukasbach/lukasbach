@@ -11,5 +11,5 @@ I joined GitHub **11** years ago. Since then, I...
 - ![](./icons/star.svg) Received **1673** stars across **128** personal projects
 - ![](./icons/commit.svg) Pushed **5488** commits
 - ![](./icons/issues.svg) Opened **38** issues
-- ![](./icons/pr.svg) Submitted **404** Pull Requests
+- ![](./icons/pr.svg) Submitted **407** Pull Requests
 - ![](./icons/repo.svg) Contributed to **0** public repositories
