@@ -12,4 +12,3 @@ I joined GitHub **{{ ACCOUNT_AGE }}** years ago. Since then, I...
 - ![](./icons/commit.svg) Pushed **{{ COMMITS }}** commits
 - ![](./icons/issues.svg) Opened **{{ ISSUES }}** issues
 - ![](./icons/pr.svg) Submitted **{{ PULL_REQUESTS }}** Pull Requests
-- ![](./icons/repo.svg) Contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories
