@@ -12,3 +12,5 @@ I joined GitHub **{{ ACCOUNT_AGE }}** years ago. Since then, I...
 - ![](./icons/commit.svg) Pushed **{{ COMMITS }}** commits
 - ![](./icons/issues.svg) Opened **{{ ISSUES }}** issues
 - ![](./icons/pr.svg) Submitted **{{ PULL_REQUESTS }}** Pull Requests
+
+You can support my Open Source Work via [Github Sponsors](https://github.com/sponsors/lukasbach) or [Paypal](https://www.paypal.com/donate/?hosted_button_id=48D4X8HEP9JYE).
