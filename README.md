@@ -11,6 +11,6 @@ I joined GitHub **12** years ago. Since then, I...
 - ![](./icons/star.svg) Received **2005** stars across **131** personal projects
 - ![](./icons/commit.svg) Pushed **6031** commits
 - ![](./icons/issues.svg) Opened **43** issues
-- ![](./icons/pr.svg) Submitted **591** Pull Requests
+- ![](./icons/pr.svg) Submitted **592** Pull Requests
 
 You can support my Open Source Work via [Github Sponsors](https://github.com/sponsors/lukasbach) or [Paypal](https://www.paypal.com/donate/?hosted_button_id=48D4X8HEP9JYE).
