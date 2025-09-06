@@ -8,7 +8,7 @@ I am a software engineer focused on frontend development. I primarily work with 
 
 I joined GitHub **12** years ago. Since then, I...
 
-- ![](./icons/star.svg) Received **2026** stars across **132** personal projects
+- ![](./icons/star.svg) Received **2027** stars across **132** personal projects
 - ![](./icons/commit.svg) Pushed **6110** commits
 - ![](./icons/issues.svg) Opened **43** issues
 - ![](./icons/pr.svg) Submitted **614** Pull Requests
