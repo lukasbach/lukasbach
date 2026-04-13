@@ -6,7 +6,7 @@ I am a software engineer focused on frontend development. I primarily work with 
 [![Medium Blog](./icons/medium.svg)](https://medium.com/@lukasbach)
 [![My Projects](./icons/projects.svg)](https://lukasbach.com/projects)
 
-I joined GitHub **12** years ago. Since then, I...
+I joined GitHub **13** years ago. Since then, I...
 
 - ![](./icons/star.svg) Received **2139** stars across **144** personal projects
 - ![](./icons/commit.svg) Pushed **6633** commits
