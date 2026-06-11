@@ -8,9 +8,9 @@ I am a software engineer focused on frontend development. I primarily work with 
 
 I joined GitHub **13** years ago. Since then, I...
 
-- ![](./icons/star.svg) Received **2154** stars across **145** personal projects
+- ![](./icons/star.svg) Received **2155** stars across **145** personal projects
 - ![](./icons/commit.svg) Pushed **6684** commits
 - ![](./icons/issues.svg) Opened **45** issues
-- ![](./icons/pr.svg) Submitted **710** Pull Requests
+- ![](./icons/pr.svg) Submitted **712** Pull Requests
 
 You can support my Open Source Work via [Github Sponsors](https://github.com/sponsors/lukasbach) or [Paypal](https://www.paypal.com/donate/?hosted_button_id=48D4X8HEP9JYE).
