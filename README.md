@@ -1,6 +1,6 @@
 # Hey there!
 
-I am a software engineer focused on frontend development. I primarily work with TypeScript and React, and am interested in accessibility, infrastructure and architecture. Currently, I am working at GoTo in Karlsruhe.
+I am a software engineer focused on frontend development. I primarily work with TypeScript and React, and am interested in accessibility, infrastructure and architecture. Currently, I am working at Waymo in Mountain View, CA.
 
 [![Homepage](./icons/homepage.svg)](https://lukasbach.com)
 [![Medium Blog](./icons/medium.svg)](https://medium.com/@lukasbach)
@@ -9,7 +9,7 @@ I am a software engineer focused on frontend development. I primarily work with 
 I joined GitHub **13** years ago. Since then, I...
 
 - ![](./icons/star.svg) Received **2175** stars across **147** personal projects
-- ![](./icons/commit.svg) Pushed **6701** commits
+- ![](./icons/commit.svg) Pushed **6702** commits
 - ![](./icons/issues.svg) Opened **45** issues
 - ![](./icons/pr.svg) Submitted **81** Pull Requests
 
